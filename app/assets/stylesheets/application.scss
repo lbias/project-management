@@ -13,6 +13,8 @@
  *= require_tree .
  *= require_self
  */
+ @import "font-awesome-sprockets";
+ @import "font-awesome"; 
 
  $light: rgba(100, 150, 250, .75);
  $dark: #eeefef;
